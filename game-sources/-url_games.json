@@ -2,5 +2,9 @@
   {
     "name":"infiniplace",
     "url":"https://place.zptr.cc/"
+  },
+  {
+    "name":"quake",
+    "url":"https://fteqw.org/demo_q1.html"
   }
 ]
